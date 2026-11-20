@@ -1,16 +1,15 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**yulidev7kral/yulidev7kral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# yulidev7kral
 
-Here are some ideas to get you started:
+**C++ & Java Lover**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=yulidev7kral&label=profile%20views&color=18181b&style=flat-square&base=2000&abbreviated=true" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" />
+
+</div>
